@@ -308,18 +308,6 @@
       "active": true
     },
     {
-      "id": 26,
-      "catId": "cat-2",
-      "name": "Eldorádó ostroma",
-      "author": "Biró Krisztián",
-      "description": "Ez itt éppen egy borsodi srác története, aki szerencsét próbál a felnövésben, az ingoványos irodalmi szcénában, a kétezer-tízes évtizedben, a bűnös nagyvárosban, Ká-Európában, a felgyorsult, amerikanizálódott világban, a Föld nevű bolygón",
-      "image": "../../assets/img/literature/1.jpg",
-      "price": 1699,
-      "stock": 20,
-      "featured": true,
-      "active": true
-    },
-    {
       "id": 27,
       "catId": "cat-2",
       "name": "A Patkánysziget és más történetek",

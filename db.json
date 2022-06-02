@@ -945,5 +945,535 @@
       "emailAddress": "sstuchbury1i@joomla.org",
       "address": "3 Golf View Park"
     }
+  ],
+  "cities": [
+    {
+      "country": "HU",
+      "name": "Görbeháza",
+      "lat": "47.83333",
+      "lng": "21.23333"
+    },
+    {
+      "country": "HU",
+      "name": "Gönc",
+      "lat": "48.46667",
+      "lng": "21.28333"
+    },
+    {
+      "country": "HU",
+      "name": "Gesztely",
+      "lat": "48.1",
+      "lng": "20.96667"
+    },
+    {
+      "country": "HU",
+      "name": "Gégény",
+      "lat": "48.15",
+      "lng": "21.95"
+    },
+    {
+      "country": "HU",
+      "name": "Gádoros",
+      "lat": "46.66667",
+      "lng": "20.6"
+    },
+    {
+      "country": "HU",
+      "name": "Füzesgyarmat",
+      "lat": "47.1",
+      "lng": "21.21667"
+    },
+    {
+      "country": "HU",
+      "name": "Füzesabony",
+      "lat": "47.75",
+      "lng": "20.41667"
+    },
+    {
+      "country": "HU",
+      "name": "Földes",
+      "lat": "47.3",
+      "lng": "21.36667"
+    },
+    {
+      "country": "HU",
+      "name": "Földeák",
+      "lat": "46.31667",
+      "lng": "20.5"
+    },
+    {
+      "country": "HU",
+      "name": "Fényeslitke",
+      "lat": "48.27133",
+      "lng": "22.10009"
+    },
+    {
+      "country": "HU",
+      "name": "Felsőzsolca",
+      "lat": "48.1",
+      "lng": "20.86667"
+    },
+    {
+      "country": "HU",
+      "name": "Felsőtárkány",
+      "lat": "47.96667",
+      "lng": "20.41667"
+    },
+    {
+      "country": "HU",
+      "name": "Fehérgyarmat",
+      "lat": "47.98333",
+      "lng": "22.51667"
+    },
+    {
+      "country": "HU",
+      "name": "Fegyvernek",
+      "lat": "47.26667",
+      "lng": "20.53333"
+    },
+    {
+      "country": "HU",
+      "name": "Farkaslyuk",
+      "lat": "48.18333",
+      "lng": "20.31667"
+    },
+    {
+      "country": "HU",
+      "name": "Fábiánsebestyén",
+      "lat": "46.68333",
+      "lng": "20.46667"
+    },
+    {
+      "country": "HU",
+      "name": "Erdőtelek",
+      "lat": "47.68333",
+      "lng": "20.31667"
+    },
+    {
+      "country": "HU",
+      "name": "Encsencs",
+      "lat": "47.73333",
+      "lng": "22.11667"
+    },
+    {
+      "country": "HU",
+      "name": "Encs",
+      "lat": "48.33333",
+      "lng": "21.13333"
+    },
+    {
+      "country": "HU",
+      "name": "Emőd",
+      "lat": "47.93333",
+      "lng": "20.81667"
+    },
+    {
+      "country": "HU",
+      "name": "Elek",
+      "lat": "46.53333",
+      "lng": "21.25"
+    },
+    {
+      "country": "HU",
+      "name": "Egyek",
+      "lat": "47.63333",
+      "lng": "20.9"
+    },
+    {
+      "country": "HU",
+      "name": "Egerszalók",
+      "lat": "47.86667",
+      "lng": "20.33333"
+    },
+    {
+      "country": "HU",
+      "name": "Eger",
+      "lat": "47.90265",
+      "lng": "20.37329"
+    },
+    {
+      "country": "HU",
+      "name": "Edelény",
+      "lat": "48.3",
+      "lng": "20.73333"
+    },
+    {
+      "country": "HU",
+      "name": "Ebes",
+      "lat": "47.46667",
+      "lng": "21.5"
+    },
+    {
+      "country": "HU",
+      "name": "Domoszló",
+      "lat": "47.83333",
+      "lng": "20.11667"
+    },
+    {
+      "country": "HU",
+      "name": "Dombrád",
+      "lat": "48.23333",
+      "lng": "21.93333"
+    },
+    {
+      "country": "HU",
+      "name": "Dombegyház",
+      "lat": "46.33333",
+      "lng": "21.13333"
+    },
+    {
+      "country": "HU",
+      "name": "Domaszék",
+      "lat": "46.24917",
+      "lng": "20.01111"
+    },
+    {
+      "country": "HU",
+      "name": "Döge",
+      "lat": "48.26246",
+      "lng": "22.06339"
+    },
+    {
+      "country": "HU",
+      "name": "Doboz",
+      "lat": "46.73333",
+      "lng": "21.25"
+    },
+    {
+      "country": "HU",
+      "name": "Dévaványa",
+      "lat": "47.03333",
+      "lng": "20.96667"
+    },
+    {
+      "country": "HU",
+      "name": "Deszk",
+      "lat": "46.21802",
+      "lng": "20.24322"
+    },
+    {
+      "country": "HU",
+      "name": "Derecske",
+      "lat": "47.35",
+      "lng": "21.56667"
+    },
+    {
+      "country": "HU",
+      "name": "Demecser",
+      "lat": "48.11648",
+      "lng": "21.92624"
+    },
+    {
+      "country": "HU",
+      "name": "Debrecen",
+      "lat": "47.53333",
+      "lng": "21.63333"
+    },
+    {
+      "country": "HU",
+      "name": "Csorvás",
+      "lat": "46.63333",
+      "lng": "20.83333"
+    },
+    {
+      "country": "HU",
+      "name": "Csongrád",
+      "lat": "46.71332",
+      "lng": "20.14241"
+    },
+    {
+      "country": "HU",
+      "name": "Csökmő",
+      "lat": "47.03333",
+      "lng": "21.3"
+    },
+    {
+      "country": "HU",
+      "name": "Cserkeszőlő",
+      "lat": "46.8632",
+      "lng": "20.18701"
+    },
+    {
+      "country": "HU",
+      "name": "Csenger",
+      "lat": "47.83582",
+      "lng": "22.68096"
+    },
+    {
+      "country": "HU",
+      "name": "Csanytelek",
+      "lat": "46.59501",
+      "lng": "20.12342"
+    },
+    {
+      "country": "HU",
+      "name": "Csanádpalota",
+      "lat": "46.25",
+      "lng": "20.73333"
+    },
+    {
+      "country": "HU",
+      "name": "Csanádapáca",
+      "lat": "46.55",
+      "lng": "20.88333"
+    },
+    {
+      "country": "HU",
+      "name": "Cigánd",
+      "lat": "48.25561",
+      "lng": "21.89195"
+    },
+    {
+      "country": "HU",
+      "name": "Cibakháza",
+      "lat": "46.95976",
+      "lng": "20.19753"
+    },
+    {
+      "country": "HU",
+      "name": "Buj",
+      "lat": "48.1",
+      "lng": "21.65"
+    },
+    {
+      "country": "HU",
+      "name": "Bucsa",
+      "lat": "47.2",
+      "lng": "21"
+    },
+    {
+      "country": "HU",
+      "name": "Borsodnádasd",
+      "lat": "48.11667",
+      "lng": "20.25"
+    },
+    {
+      "country": "HU",
+      "name": "Boldva",
+      "lat": "48.21667",
+      "lng": "20.8"
+    },
+    {
+      "country": "HU",
+      "name": "Bököny",
+      "lat": "47.73333",
+      "lng": "21.75"
+    },
+    {
+      "country": "HU",
+      "name": "Bogács",
+      "lat": "47.9",
+      "lng": "20.53333"
+    },
+    {
+      "country": "HU",
+      "name": "Bőcs",
+      "lat": "48.05",
+      "lng": "20.96667"
+    },
+    {
+      "country": "HU",
+      "name": "Biharnagybajom",
+      "lat": "47.21667",
+      "lng": "21.23333"
+    },
+    {
+      "country": "HU",
+      "name": "Biharkeresztes",
+      "lat": "47.13333",
+      "lng": "21.71667"
+    },
+    {
+      "country": "HU",
+      "name": "Besenyszög",
+      "lat": "47.3",
+      "lng": "20.26667"
+    },
+    {
+      "country": "HU",
+      "name": "Besenyőtelek",
+      "lat": "47.7",
+      "lng": "20.43333"
+    },
+    {
+      "country": "HU",
+      "name": "Berettyóújfalu",
+      "lat": "47.21667",
+      "lng": "21.55"
+    },
+    {
+      "country": "HU",
+      "name": "Bélapátfalva",
+      "lat": "48.05",
+      "lng": "20.36667"
+    },
+    {
+      "country": "HU",
+      "name": "Békésszentandrás",
+      "lat": "46.86667",
+      "lng": "20.48333"
+    },
+    {
+      "country": "HU",
+      "name": "Békéssámson",
+      "lat": "46.41667",
+      "lng": "20.63333"
+    },
+    {
+      "country": "HU",
+      "name": "Békéscsaba",
+      "lat": "46.68333",
+      "lng": "21.1"
+    },
+    {
+      "country": "HU",
+      "name": "Békés",
+      "lat": "46.76667",
+      "lng": "21.13333"
+    },
+    {
+      "country": "HU",
+      "name": "Bekecs",
+      "lat": "48.15",
+      "lng": "21.18333"
+    },
+    {
+      "country": "HU",
+      "name": "Battonya",
+      "lat": "46.28333",
+      "lng": "21.01667"
+    },
+    {
+      "country": "HU",
+      "name": "Báránd",
+      "lat": "47.3",
+      "lng": "21.23333"
+    },
+    {
+      "country": "HU",
+      "name": "Balmazújváros",
+      "lat": "47.61667",
+      "lng": "21.35"
+    },
+    {
+      "country": "HU",
+      "name": "Balkány",
+      "lat": "47.77066",
+      "lng": "21.86314"
+    },
+    {
+      "country": "HU",
+      "name": "Balástya",
+      "lat": "46.42277",
+      "lng": "20.00816"
+    },
+    {
+      "country": "HU",
+      "name": "Baktalórántháza",
+      "lat": "48",
+      "lng": "22.08333"
+    },
+    {
+      "country": "HU",
+      "name": "Baks",
+      "lat": "46.54297",
+      "lng": "20.10213"
+    },
+    {
+      "country": "HU",
+      "name": "Bagamér",
+      "lat": "47.44882",
+      "lng": "21.989"
+    },
+    {
+      "country": "HU",
+      "name": "Aszaló",
+      "lat": "48.21667",
+      "lng": "20.96667"
+    },
+    {
+      "country": "HU",
+      "name": "Arnót",
+      "lat": "48.13058",
+      "lng": "20.85832"
+    },
+    {
+      "country": "HU",
+      "name": "Arló",
+      "lat": "48.18333",
+      "lng": "20.26667"
+    },
+    {
+      "country": "HU",
+      "name": "Aranyosapáti",
+      "lat": "48.20595",
+      "lng": "22.25916"
+    },
+    {
+      "country": "HU",
+      "name": "Apátfalva",
+      "lat": "46.16667",
+      "lng": "20.58333"
+    },
+    {
+      "country": "HU",
+      "name": "Apagy",
+      "lat": "47.96431",
+      "lng": "21.93539"
+    },
+    {
+      "country": "HU",
+      "name": "Andornaktálya",
+      "lat": "47.85",
+      "lng": "20.41667"
+    },
+    {
+      "country": "HU",
+      "name": "Anarcs",
+      "lat": "48.17642",
+      "lng": "22.11167"
+    },
+    {
+      "country": "HU",
+      "name": "Alsózsolca",
+      "lat": "48.06982",
+      "lng": "20.88046"
+    },
+    {
+      "country": "HU",
+      "name": "Alattyán",
+      "lat": "47.42705",
+      "lng": "20.04219"
+    },
+    {
+      "country": "HU",
+      "name": "Ajak",
+      "lat": "48.17664",
+      "lng": "22.06273"
+    },
+    {
+      "country": "HU",
+      "name": "Abony",
+      "lat": "47.1899",
+      "lng": "20.00476"
+    },
+    {
+      "country": "HU",
+      "name": "Abaújszántó",
+      "lat": "48.28333",
+      "lng": "21.2"
+    },
+    {
+      "country": "HU",
+      "name": "Abasár",
+      "lat": "47.79705",
+      "lng": "20.00324"
+    },
+    {
+      "country": "HU",
+      "name": "Abádszalók",
+      "lat": "47.46667",
+      "lng": "20.6"
+    }
   ]
 }
